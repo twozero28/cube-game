@@ -51,4 +51,4 @@ bun --bun run format:check
 
 ## Notes
 
-This repository currently focuses on the front-end gameplay experience. It also includes a small MCP route experiment for local development, but the main product surface is the 3D cube puzzle game.
+This repository currently focuses on the front-end gameplay experience and the core 3D cube puzzle game.
