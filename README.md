@@ -1,6 +1,6 @@
-# Cube Game
+# Cube Lab
 
-Cube Game is a browser-based 3D cube puzzle game built with TanStack Start, React, and React Three Fiber. Players can scramble, rotate, and solve a 2x2 or 3x3 cube in the browser.
+Cube Lab is a browser-based 3D cube puzzle game built with TanStack Start, React, and React Three Fiber. Players can scramble, rotate, and solve a 2x2 or 3x3 cube in the browser.
 
 ## Highlights
 

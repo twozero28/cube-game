@@ -6,7 +6,7 @@ export const Route = createFileRoute("/play")({
   head: () => ({
     meta: [
       {
-        title: "NEON_CUBE_LAB - 3D Cube Puzzle Stage",
+        title: "Cube Lab - Play",
       },
       {
         name: "description",

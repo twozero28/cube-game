@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="18" fill="#0c0c21" />
+  <path
+    d="M32 11 48 20.5V39.5L32 49 16 39.5V20.5L32 11Z"
+    fill="url(#cube-top)"
+    stroke="rgba(229,227,255,0.16)"
+    stroke-width="1.5"
+  />
+  <path
+    d="M32 11V30L16 20.5 32 11Z"
+    fill="#5CE1F2"
+    fill-opacity=".92"
+  />
+  <path
+    d="M32 11 48 20.5 32 30V11Z"
+    fill="#8FF5FF"
+    fill-opacity=".98"
+  />
+  <path
+    d="M16 20.5 32 30V49L16 39.5V20.5Z"
+    fill="#182645"
+  />
+  <path
+    d="M48 20.5 32 30V49L48 39.5V20.5Z"
+    fill="#0E8FA4"
+  />
+  <path
+    d="M32 30 48 20.5V39.5L32 49 16 39.5V20.5L32 30Z"
+    stroke="rgba(229,227,255,0.24)"
+    stroke-width="1.5"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M39.5 34.5 32 39 24.5 34.5"
+    stroke="#BCFF5F"
+    stroke-width="3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="46.5" cy="17.5" r="3" fill="#8FF5FF" fill-opacity=".9" />
+  <defs>
+    <linearGradient id="cube-top" x1="16" y1="11" x2="48" y2="49" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8FF5FF" stop-opacity=".18" />
+      <stop offset="1" stop-color="#00EEFC" stop-opacity=".04" />
+    </linearGradient>
+  </defs>
+</svg>

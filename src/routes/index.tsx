@@ -5,7 +5,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       {
-        title: "NEON_CUBE_LAB - Kinetic Chronosphere",
+        title: "Cube Lab",
       },
       {
         name: "description",
