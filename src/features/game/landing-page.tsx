@@ -1,6 +1,6 @@
 import {lazy, Suspense, useEffect, useState} from "react";
 import {Link} from "@tanstack/react-router";
-import {Grid2x2, Sparkles} from "lucide-react";
+import {Github, Grid2x2, Sparkles} from "lucide-react";
 
 import {Button} from "#/components/ui/button";
 
@@ -25,6 +25,22 @@ export function LandingPage() {
             Neon_Cube_Lab
           </span>
         </div>
+
+        <Button
+          asChild
+          variant="ghost"
+          size="icon"
+          className="rounded-full text-slate-400 hover:bg-cyan-500/10 hover:text-cyan-400 hover:shadow-[0_0_20px_rgba(0,240,255,0.18)]"
+        >
+          <a
+            href="https://github.com/twozero28/cube-lab"
+            target="_blank"
+            rel="noreferrer"
+            aria-label="Open GitHub repository"
+          >
+            <Github className="size-5" />
+          </a>
+        </Button>
       </header>
 
       <div className="pointer-events-none fixed inset-0 overflow-hidden">

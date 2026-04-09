@@ -26,12 +26,12 @@ export const Route = createRootRoute({
       },
       {
         rel: "icon",
-        type: "image/svg+xml",
-        href: "/favicon.svg",
+        type: "image/png",
+        href: "/cube-lab-cube-192.png",
       },
       {
         rel: "shortcut icon",
-        href: "/favicon.ico",
+        href: "/cube-lab-cube.ico",
       },
       {
         rel: "manifest",
